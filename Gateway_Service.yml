@@ -1,0 +1,26 @@
+eureka :
+  instance:
+   client:
+    serviceUrl:
+     defaultZone: http://localhost:8761/
+
+  server:
+  port: 8080
+
+token-secret : sdvcjsdfvjsdvjhhthtrhtrhtrhthqsvdjhdvjqsgvjqsgvqshjqshvjqshvjqshvdqsdhjqdvqsf
+
+
+spring:
+  application:
+    name: Gateway_Service
+  security:
+    user:
+      name: mabrouka
+      password: annabi
+server:
+  port: 8080
+
+
+
+
+
