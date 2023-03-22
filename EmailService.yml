@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: EmailService
+
+
+
+  mail :
+    host: smtp.gmail.com
+    port: 587
+    username: takoua28642723@gmail.com
+    password: sejmngurqblnhrjt
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+    protocol: smtp
+#  Server configuration
+server:
+  port: 8099
