@@ -1,4 +1,8 @@
 spring:
+ security:
+    user:
+      name: mabrouka
+      password: annabi
   application:
     name: Email_Service
 
