@@ -1,6 +1,7 @@
 spring:
   application:
-    name: EmailService
+    name: Email_Service
+
 
 
 
