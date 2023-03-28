@@ -3,8 +3,8 @@ spring:
     name: Consultant_Service
    security:
     user:
-      name: mabrouka
-      password: annabi 
+      name: oumaima
+      password: oumaima 
 
 
   # Database
