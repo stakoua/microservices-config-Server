@@ -18,7 +18,7 @@ spring:
     url: jdbc:postgresql://localhost:5432/ConsultantDB
     username: postgres
 
-    password: postgres
+    password: insy2s
 
   jpa:
     hibernate:
