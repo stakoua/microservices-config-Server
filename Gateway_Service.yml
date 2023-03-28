@@ -4,8 +4,7 @@ eureka :
     serviceUrl:
      defaultZone: http://localhost:8761/
 
-  server:
-  port: 8089
+ 
 
 
 
@@ -18,7 +17,7 @@ spring:
       name: mabrouka
       password: annabi
 server:
-  port: 8080
+  port: 8089
 
 
 
