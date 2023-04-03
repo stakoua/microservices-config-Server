@@ -32,4 +32,4 @@ spring:
         format_sql: true
 #  Server configuration
 server:
-  port: 8090
+  port: 8087
