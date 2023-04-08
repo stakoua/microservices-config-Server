@@ -5,7 +5,11 @@ spring:
       password: annabi
   application:
       name: Email_Service
-
+eureka :
+  instance:
+   client:
+    serviceUrl:
+     defaultZone: http://localhost:8761/
 
 
 
