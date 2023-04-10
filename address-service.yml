@@ -14,7 +14,7 @@ spring:
     url: jdbc:postgresql://localhost:5432/adress_db
     username: postgres
 
-    password: 123
+    password: insy2s
 
 
 
