@@ -11,7 +11,7 @@ spring:
       connection-timeout: 60000
       maximum-pool-size: 30
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/address_db
+    url: jdbc:postgresql://localhost:5432/adress_db
     username: postgres
 
     password: insy2s
