@@ -2,6 +2,10 @@
 spring:
   application:
     name: AddressService
+  security:
+    user:
+      name: mabrouka
+      password: annabi
 
   # Database
   datasource:
