@@ -1,5 +1,6 @@
 spring:
-  application: Ged_Service
+  application:
+    name: Ged_Service 
   security:
     user:
       name: mabrouka
