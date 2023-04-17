@@ -1,10 +1,4 @@
-#  Eureka configuration
 
-eureka :
-  instance:
-    client:
-      serviceUrl:
-        defaultZone: http://localhost:8761/
 
 spring:
   application:
@@ -22,3 +16,10 @@ spring:
       port: 27017
 server:
   port: 8088
+#  Eureka configuration
+
+eureka :
+  instance:
+    client:
+      serviceUrl:
+        defaultZone: http://localhost:8761/
