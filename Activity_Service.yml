@@ -37,5 +37,8 @@ server:
           config:
              import: optional:configserver:http://localhost:8888
   port: 8084
+  
+user:
+  url: http://localhost:8090/api/auth
 
 

@@ -42,3 +42,6 @@ eureka :
         defaultZone: http://localhost:8761/
 
 message: From User Service 123
+
+user:
+  url: http://localhost:8090/api/auth

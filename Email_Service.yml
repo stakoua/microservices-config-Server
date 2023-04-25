@@ -17,3 +17,6 @@ eureka :
 #  Server configuration
 server:
   port: 8086
+  
+user:
+  url: http://localhost:8090/api/auth
