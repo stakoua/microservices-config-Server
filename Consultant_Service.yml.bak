@@ -33,7 +33,6 @@ spring:
 #  Server configuration
 server:
   port: 8085
-  
 user:
   url: http://localhost:8090/api/auth
 
