@@ -17,7 +17,7 @@ spring:
       name: mabrouka
       password: annabi
 server:
-  port: 8090
+  port: 8080
 
 
 
