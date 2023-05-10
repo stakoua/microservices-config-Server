@@ -12,7 +12,7 @@ spring:
     mongodb:
       database: insy2s
       username: insy2s
-      password: admin
+      password: insy2s
       host: localhost
       port: 27017
 server:
