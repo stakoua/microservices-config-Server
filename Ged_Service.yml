@@ -10,7 +10,7 @@ spring:
       password: annabi
   data:
     mongodb:
-      database: admin
+      database: insy2s
       username: insy2s
       password: insy2s
       host: localhost
