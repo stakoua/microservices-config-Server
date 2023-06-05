@@ -34,6 +34,8 @@ spring:
 server:
   port: 8085
   
-user:
+consultant:
   url: http://localhost:8090/api/consultants
+user:
+  url: http://localhost:8090/api/keycloak/users
 
