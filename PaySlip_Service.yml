@@ -36,3 +36,5 @@ server:
 
 user:
   url: http://localhost:8090/api/auth
+consultant:
+  url: http://localhost:8090/api/consultants
