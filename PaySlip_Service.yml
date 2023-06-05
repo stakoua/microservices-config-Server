@@ -38,3 +38,5 @@ user:
   url: http://localhost:8090/api/auth
 consultant:
   url: http://localhost:8090/api/consultants
+ged:
+  url: http://localhost:8090/api/file
