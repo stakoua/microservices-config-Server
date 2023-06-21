@@ -34,3 +34,5 @@ server:
   
 user:
   url: http://localhost:8090/api/auth
+email:
+  url: http://localhost:8090/api/mail
