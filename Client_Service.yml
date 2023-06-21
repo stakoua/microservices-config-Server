@@ -33,6 +33,6 @@ server:
   port: 8081
   
 user:
-  url: http://localhost:8090/api/auth
+  url: http://localhost:8090/api/keycloak/users
 email:
   url: http://localhost:8090/api/mail
